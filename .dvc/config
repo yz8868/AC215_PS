@@ -1,0 +1,4 @@
+[core]
+    remote = image_data
+['remote "image_data"']
+    url = gs://ac215_hw2_yzhou/dvc_store
